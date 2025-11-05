@@ -1,6 +1,6 @@
 /* style.css */
 :root {
-    --cor-principal: #e3170a; /*vermelho vibrante */
+    --cor-principal: #dc3545; /*vermelho vibrante */
     --cor-secundaria: #343a40; /* Cinza escuro para navegação */
     --cor-fundo: #f8f9fa; /* Cinza claro */
     --cor-texto: #343a40;
@@ -167,4 +167,5 @@ footer {
     font-size: 0.9em;
 
 }
+
 
