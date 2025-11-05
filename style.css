@@ -101,6 +101,11 @@ section {
     margin-bottom: 10px;
 }
 
+.hero h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
 .hero p {
     font-size: 1.2em;
     margin-bottom: 30px;
@@ -160,4 +165,5 @@ footer {
     color: #adb5bd;
     margin-top: 30px;
     font-size: 0.9em;
+
 }
